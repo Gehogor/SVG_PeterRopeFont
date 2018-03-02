@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="109.svg"
+   sodipodi:docname="109_2.svg"
    fin="5 123"
    deb="12 254">
   <defs
@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6964633"
-     inkscape:cx="1.9565518"
-     inkscape:cy="930.12112"
+     inkscape:zoom="4"
+     inkscape:cx="65.372882"
+     inkscape:cy="913.0364"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,49 +51,53 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1170"
      inkscape:window-height="802"
-     inkscape:window-x="57"
-     inkscape:window-y="1"
+     inkscape:window-x="35"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
-       position="127.16242,1000.0852"
-       id="guide2816" />
+       position="127.16242,1000"
+       id="guide16" />
     <sodipodi:guide
        orientation="0,1"
-       position="117.16712,950.1087"
-       id="guide2818" />
+       position="-47.729708,950"
+       id="guide18" />
     <sodipodi:guide
        orientation="0,1"
-       position="33.571782,900.15568"
-       id="guide2820" />
+       position="144.37654,900"
+       id="guide20" />
     <sodipodi:guide
        orientation="0,1"
-       position="121.05418,850.15571"
-       id="guide2822" />
+       position="121.05418,850"
+       id="guide22" />
     <sodipodi:guide
        orientation="0,1"
-       position="34.428252,1050.0617"
-       id="guide2824" />
+       position="34.428252,1050"
+       id="guide24" />
     <sodipodi:guide
        orientation="0,1"
-       position="27.764719,800.17922"
-       id="guide2826" />
+       position="27.764719,800"
+       id="guide26" />
     <sodipodi:guide
        orientation="1,0"
-       position="49.976495,976.20754"
-       id="guide2828" />
+       position="50,976.20754"
+       id="guide28" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,1015.0781"
+       id="guide3196" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="150,1050.0617"
+       id="guide3198" />
     <sodipodi:guide
        orientation="0,1"
-       position="113.5577,912.62632"
-       id="guide3039" />
+       position="1.4142136,912.5"
+       id="guide2920" />
     <inkscape:grid
        type="xygrid"
-       id="grid3033"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
+       id="grid3888" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -103,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,9 +117,9 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.07937896px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0.00386291,122.34221 c 3.98598499,2.02023 8.87659649,-7.79299 14.73401809,-13.49364 5.857421,-5.70064 9.403145,-7.18382 10.694501,-5.19495 1.291355,1.98887 0.328342,7.44978 -2.831714,15.6373 -3.160056,8.18752 -8.517154,19.10165 -16.0139656,31.99696 39.5543126,-67.677667 55.0013746,-61.9935 21.9409806,0.10882 0.768538,-8.44127 43.192108,-68.804856 38.597569,-41.55572 -7.784521,25.44609 -23.275883,52.22612 -7.473906,37.56413 1.979995,-2.02553 6.061331,-5.72399 7.893167,-7.86365"
+       d="M 0.00273203,122.35692 C 5.002971,119.88149 7.348278,116.51616 9.122237,111.48996 c 2.277673,-6.45338 7.962274,-9.72733 10.421593,-7.94124 4.278005,3.10692 1.256082,21.38684 -11.610431,48.11155 26.433658,-69.387809 44.225822,-60.162671 19.683358,0.19844 19.027685,-53.353047 27.449376,-50.39739 29.444837,-47.43914 6.051915,8.97189 -16.105753,43.15388 -5.996347,47.36356 3.149446,1.31146 7.936547,-6.91938 12.934696,-11.91683"
        id="path3223"
-       sodipodi:nodetypes="csssccccc"
+       sodipodi:nodetypes="cssccssc"
        fin="12 45"
        inkscape:connector-curvature="0" />
   </g>

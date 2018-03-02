@@ -14,8 +14,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="52.svg"
-   Fin="52 0">
+   sodipodi:docname="052.svg"
+   Fin="55 0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,52 +33,60 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2033864"
-     inkscape:cx="81.506773"
-     inkscape:cy="974.75246"
+     inkscape:zoom="4"
+     inkscape:cx="55.530361"
+     inkscape:cy="913.87932"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
-     inkscape:window-height="840"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
-       position="127.16242,1000.0852"
-       id="guide2816" />
+       position="127.16242,1000"
+       id="guide16" />
     <sodipodi:guide
        orientation="0,1"
-       position="117.16712,950.1087"
-       id="guide2818" />
+       position="-47.729708,950"
+       id="guide18" />
     <sodipodi:guide
        orientation="0,1"
-       position="144.37654,900.13221"
-       id="guide2820" />
+       position="144.37654,900"
+       id="guide20" />
     <sodipodi:guide
        orientation="0,1"
-       position="121.05418,850.15571"
-       id="guide2822" />
+       position="121.05418,850"
+       id="guide22" />
     <sodipodi:guide
        orientation="0,1"
-       position="34.428252,1050.0617"
-       id="guide2824" />
+       position="34.428252,1050"
+       id="guide24" />
     <sodipodi:guide
        orientation="0,1"
-       position="27.764719,800.17922"
-       id="guide2826" />
+       position="27.764719,800"
+       id="guide26" />
     <sodipodi:guide
        orientation="1,0"
-       position="49.976495,976.20754"
-       id="guide2828" />
+       position="50,976.20754"
+       id="guide28" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,1015.0781"
+       id="guide3196" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="150,1050.0617"
+       id="guide3198" />
     <sodipodi:guide
        orientation="0,1"
-       position="85.237688,912.62632"
-       id="guide3022" />
+       position="1.4142136,912.5"
+       id="guide2920" />
     <inkscape:grid
        type="xygrid"
        id="grid3320" />
@@ -101,13 +109,15 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 21.378834,62.549947 C 18.379276,71.131692 15.800412,79.946855 15.004745,89.0319 12.33204,99.4132 8.1913284,109.363 5.8386716,119.83522 c -1.214746,4.55401 -2.2696302,9.16068 -2.8852075,13.83744 -3.26305645,3.27288 0.4958481,10.55655 5.0795831,7.7231 11.1803208,-3.89282 23.2009788,-4.32142 34.9188248,-4.22299 l 0.193275,0.0344 0.167815,0.0299"
+       d="m 33.132896,63.474076 c -1.428948,9.563376 -3.804063,16.92543 -6.374089,26.481953 -2.570026,9.556523 -5.515927,20.358661 -7.988116,30.803311 -1.000095,4.22526 -2.34479,8.57844 -3.909669,12.73365 -0.839536,2.22921 -2.929968,6.51791 -2.929968,6.51791 -1.874821,3.65158 -6.3065083,0.70007 -1.722773,-2.13338 15.493134,-3.64783 31.337029,-0.21604 44.793485,0.22232"
        id="path3463"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czsaccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.376483,125.57586 c -1.403025,8.1916 -2.391356,16.50572 -4.997626,24.43295"
+       d="m 38.130545,126.49998 c -1.403025,8.1916 -2.391356,16.50572 -4.997626,24.43295"
        id="path3465"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

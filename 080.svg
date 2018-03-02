@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="080.svg"
-   Fin="33.35 0">
+   Fin="40 0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
+     inkscape:zoom="4"
      inkscape:cx="34.499267"
-     inkscape:cy="913.36554"
+     inkscape:cy="955.70635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -115,7 +115,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 31.398653,54.483235 C 66.044635,26.999966 78.83966,62.059831 34.873346,76.141678 25.947971,79.000361 16.950443,69.206565 17.390926,62.910707 18.024859,51.147971 25.208949,40.300113 32.105568,31.258371 48.652479,9.5647135 76.209891,2.1317558 104.0196,7.7434583 c 7.85294,1.5846398 13.05153,2.5924337 21.85408,10.0008627 24.02127,20.216858 1.72609,44.706862 -13.33556,46.293949"
+       d="M 31.398653,54.483235 C 66.044635,26.999966 78.378102,62.372618 34.873346,76.141678 21.644732,80.328475 16.950443,71.456565 17.390926,62.910707 18.024859,51.147971 25.208949,40.300113 32.105568,31.258371 48.652479,9.5647135 76.209891,2.1317558 104.0196,7.7434583 c 7.85294,1.5846398 12.80469,2.8960637 21.85408,10.0008627 23.52127,18.466858 1.72609,44.706862 -13.33556,46.293949"
        id="path3396"
        sodipodi:nodetypes="cscsssc"
        inkscape:connector-curvature="0" />

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="101_1.svg">
+   sodipodi:docname="114_3.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="1.007856"
-     inkscape:cy="913.12358"
+     inkscape:zoom="4"
+     inkscape:cx="1.6254663"
+     inkscape:cy="905.07017"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -88,7 +88,7 @@
        id="guide2920" />
     <inkscape:grid
        type="xygrid"
-       id="grid2998" />
+       id="grid2994" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -108,9 +108,9 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.00221945,139.86184 C 5.0081965,134.84816 10.175768,125.86024 14.432103,122.52421 c 17.427466,4.13597 22.272204,5.32302 32.406267,-6.62631 10.401902,-12.26515 -10.272109,-21.513644 -27.905064,0.0267 -19.7406283,24.11509 -4.165959,52.67339 22.01246,23.9506"
-       id="path3201-1"
-       sodipodi:nodetypes="ccssc"
+       d="M 5.4354337e-4,147.36299 C 34.711407,132.42982 45.774411,107.96887 43.947364,99.23908 c -1.650191,-7.884757 -6.840822,1.61457 0.06971,2.9256 8.649925,1.64102 10.68696,0.92144 16.045305,1.03058 1.872064,0.0381 3.485195,1.782 3.527059,3.41882 0.233323,9.12256 -34.864513,70.77321 2.661959,33.24678"
+       id="path3024"
+       sodipodi:nodetypes="cssssc"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

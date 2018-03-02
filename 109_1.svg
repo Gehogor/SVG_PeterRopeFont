@@ -14,9 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="109.svg"
-   fin="5 123"
-   deb="12 254">
+   sodipodi:docname="109_1.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -41,15 +39,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0560157"
-     inkscape:cx="39.216161"
-     inkscape:cy="925.07514"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="30.156951"
+     inkscape:cy="920.05072"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1170"
+     inkscape:window-width="1417"
      inkscape:window-height="802"
      inkscape:window-x="57"
      inkscape:window-y="1"
@@ -57,43 +55,47 @@
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
-       position="127.16242,1000.0852"
-       id="guide2816" />
+       position="127.16242,1000"
+       id="guide16" />
     <sodipodi:guide
        orientation="0,1"
-       position="117.16712,950.1087"
-       id="guide2818" />
+       position="-47.729708,950"
+       id="guide18" />
     <sodipodi:guide
        orientation="0,1"
-       position="33.571782,900.15568"
-       id="guide2820" />
+       position="144.37654,900"
+       id="guide20" />
     <sodipodi:guide
        orientation="0,1"
-       position="121.05418,850.15571"
-       id="guide2822" />
+       position="121.05418,850"
+       id="guide22" />
     <sodipodi:guide
        orientation="0,1"
-       position="34.428252,1050.0617"
-       id="guide2824" />
+       position="34.428252,1050"
+       id="guide24" />
     <sodipodi:guide
        orientation="0,1"
-       position="27.764719,800.17922"
-       id="guide2826" />
+       position="27.764719,800"
+       id="guide26" />
     <sodipodi:guide
        orientation="1,0"
-       position="49.976495,976.20754"
-       id="guide2828" />
+       position="50,976.20754"
+       id="guide28" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,1015.0781"
+       id="guide3196" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="150,1050.0617"
+       id="guide3198" />
     <sodipodi:guide
        orientation="0,1"
-       position="113.5577,912.62632"
-       id="guide3039" />
+       position="1.4142136,912.5"
+       id="guide2920" />
     <inkscape:grid
        type="xygrid"
-       id="grid3033"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
+       id="grid3718" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -103,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,9 +115,9 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.07937896px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.53050504,139.52392 C 42.683069,79.999816 46.931256,99.882185 16.944006,151.46343 c 39.554313,-67.677669 55.001375,-61.993502 21.940981,0.10882 0.768538,-8.44127 43.192108,-68.804858 38.597569,-41.55572 -7.784521,25.44609 -23.275883,52.22612 -7.473906,37.56413 1.979995,-2.02553 6.061331,-5.72399 7.893167,-7.86365"
+       d="m 0.0027317,139.86073 c 9.9689894,-10.01357 13.8362833,-19.2148 16.4756603,-23.38226 4.791224,-7.56513 8.231119,-17.408411 13.065438,-12.92975 3.87855,3.59321 1.256082,21.38684 -11.610431,48.11155 26.433658,-69.387809 44.225822,-60.162671 19.683358,0.19844 19.027685,-53.353047 27.449376,-50.39739 29.444837,-47.43914 6.051915,8.97189 -16.243111,42.9707 -6.481182,47.24928 3.686507,1.61577 8.546382,-6.8051 13.419531,-11.80255"
        id="path3223"
-       sodipodi:nodetypes="cccccc"
+       sodipodi:nodetypes="cssccssc"
        fin="12 45"
        inkscape:connector-curvature="0" />
   </g>

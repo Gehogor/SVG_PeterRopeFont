@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="067.svg"
-   Fin="61.98 0">
+   Fin="60 0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="62.181538"
-     inkscape:cy="912.95206"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="31.185941"
+     inkscape:cy="962.69808"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -50,31 +50,31 @@
     <sodipodi:guide
        orientation="0,1"
        position="127.16242,1000"
-       id="guide2816" />
+       id="guide16" />
     <sodipodi:guide
        orientation="0,1"
        position="-47.729708,950"
-       id="guide2818" />
+       id="guide18" />
     <sodipodi:guide
        orientation="0,1"
        position="144.37654,900"
-       id="guide2820" />
+       id="guide20" />
     <sodipodi:guide
        orientation="0,1"
        position="121.05418,850"
-       id="guide2822" />
+       id="guide22" />
     <sodipodi:guide
        orientation="0,1"
        position="34.428252,1050"
-       id="guide2824" />
+       id="guide24" />
     <sodipodi:guide
        orientation="0,1"
        position="27.764719,800"
-       id="guide2826" />
+       id="guide26" />
     <sodipodi:guide
        orientation="1,0"
        position="50,976.20754"
-       id="guide2828" />
+       id="guide28" />
     <sodipodi:guide
        orientation="1,0"
        position="100,1015.0781"
@@ -89,7 +89,7 @@
        id="guide2920" />
     <inkscape:grid
        type="xygrid"
-       id="grid3598" />
+       id="grid8884" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">

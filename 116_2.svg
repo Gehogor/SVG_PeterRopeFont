@@ -14,8 +14,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="h116.svg"
-   Fin="18.38 0">
+   sodipodi:docname="116_1.svg"
+   Fin="37.55 0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,59 +33,63 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="13.574414"
-     inkscape:cy="913.06094"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="17.961295"
+     inkscape:cy="912.39146"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
-     inkscape:window-height="840"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
-       position="127.16242,1000.0852"
-       id="guide2816" />
+       position="127.16242,1000"
+       id="guide16" />
     <sodipodi:guide
        orientation="0,1"
-       position="117.16712,950.1087"
-       id="guide2818" />
+       position="-47.729708,950"
+       id="guide18" />
     <sodipodi:guide
        orientation="0,1"
-       position="1.7677669,900.01435"
-       id="guide2820" />
+       position="144.37654,900"
+       id="guide20" />
     <sodipodi:guide
        orientation="0,1"
-       position="121.05418,850.15571"
-       id="guide2822" />
+       position="121.05418,850"
+       id="guide22" />
     <sodipodi:guide
        orientation="0,1"
-       position="34.428252,1050.0617"
-       id="guide2824" />
+       position="34.428252,1050"
+       id="guide24" />
     <sodipodi:guide
        orientation="0,1"
-       position="27.764719,800.17922"
-       id="guide2826" />
+       position="27.764719,800"
+       id="guide26" />
     <sodipodi:guide
        orientation="1,0"
-       position="49.976495,976.20754"
-       id="guide2828" />
+       position="50,976.20754"
+       id="guide28" />
     <sodipodi:guide
        orientation="1,0"
-       position="99.95299,1032.2923"
-       id="guide2846" />
+       position="100,1015.0781"
+       id="guide3196" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="150,1050.0617"
+       id="guide3198" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1.4142136,912.5"
+       id="guide2920" />
     <inkscape:grid
        type="xygrid"
-       id="grid2854" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="19.610121,912.50253"
-       id="guide7224" />
+       id="grid13595" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -95,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,13 +109,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.21966684px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.501923,75.296944 c -6.085971,7.011196 -7.105139,16.669498 -15.8520551,34.693316 -6.36878705,13.12346 -10.05932,26.52449 -11.774829,32.80739 -5.5758689,20.42113 22.0222411,-0.2908 24.4547361,-3.11889"
+       d="m 21.467307,75.468589 c -5.010076,8.356065 -7.105138,16.669498 -15.8520539,34.693321 -6.36878657,13.12346 -10.7317536,25.58308 -12.4472625,31.86598 -3.2865056,18.45889 16.6622164,6.48266 25.2717004,-2.20482"
        id="path2863"
-       sodipodi:nodetypes="cssc"
+       sodipodi:nodetypes="cscc"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99173641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 11.406424,96.58591 c 18.100525,-0.40876 19.496304,1.379777 23.839474,-0.225673"
+       d="m 11.482663,96.81069 c 18.100525,-1.484655 19.938246,0.707342 24.281416,-0.225673"
        id="path2867"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0" />

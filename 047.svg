@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="47.svg"
+   sodipodi:docname="047.svg"
    Fin="60 0">
   <defs
      id="defs4">
@@ -43,45 +43,53 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="619"
      inkscape:window-height="713"
-     inkscape:window-x="22"
-     inkscape:window-y="29"
+     inkscape:window-x="293"
+     inkscape:window-y="82"
      inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
-       position="127.16242,1000.0852"
-       id="guide2816" />
+       position="127.16242,1000"
+       id="guide16" />
     <sodipodi:guide
        orientation="0,1"
-       position="117.16712,950.1087"
-       id="guide2818" />
+       position="-47.729708,950"
+       id="guide18" />
     <sodipodi:guide
        orientation="0,1"
-       position="144.37654,900.13221"
-       id="guide2820" />
+       position="144.37654,900"
+       id="guide20" />
     <sodipodi:guide
        orientation="0,1"
-       position="121.05418,850.15571"
-       id="guide2822" />
+       position="121.05418,850"
+       id="guide22" />
     <sodipodi:guide
        orientation="0,1"
-       position="34.428252,1050.0617"
-       id="guide2824" />
+       position="34.428252,1050"
+       id="guide24" />
     <sodipodi:guide
        orientation="0,1"
-       position="27.764719,800.17922"
-       id="guide2826" />
+       position="27.764719,800"
+       id="guide26" />
     <sodipodi:guide
        orientation="1,0"
-       position="49.976495,976.20754"
-       id="guide2828" />
+       position="50,976.20754"
+       id="guide28" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,1015.0781"
+       id="guide3196" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="150,1050.0617"
+       id="guide3198" />
     <sodipodi:guide
        orientation="0,1"
-       position="85.237688,912.62632"
-       id="guide3022" />
+       position="1.4142136,912.5"
+       id="guide2920" />
     <inkscape:grid
        type="xygrid"
-       id="grid3320" />
+       id="grid3362" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -91,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,8 +109,9 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 47.97711,67.188384 c -4.244389,5.180594 -5.948593,11.902801 -10.053695,17.179071 -3.377073,5.965101 -5.989362,12.346504 -9.786445,18.077505 -2.561758,4.37157 -4.940403,8.90646 -6.561032,13.70931 -0.705255,3.33724 -1.870806,6.59576 -4.127213,9.21607 -2.493929,3.15723 -5.079585,6.30414 -6.652023,10.04904 -0.629967,1.1632 -1.3214003,2.29185 -2.0337596,3.40606"
+       d="m 47.97711,67.188384 c -4.244389,5.180594 -5.948593,11.902801 -10.053695,17.179071 -3.377073,5.965101 -6.907155,11.834757 -9.786445,18.077505 -5.187912,11.2482 -12.99081,23.46584 -17.340268,32.97442 -0.629967,1.1632 -1.3214003,2.29185 -2.0337596,3.40606"
        id="path3191"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
   </g>
 </svg>
