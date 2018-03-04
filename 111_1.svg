@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="47.815757"
-     inkscape:cy="929.54203"
+     inkscape:zoom="8"
+     inkscape:cx="46.864549"
+     inkscape:cy="931.5434"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -86,6 +86,9 @@
        orientation="0,1"
        position="1.4142136,912.5"
        id="guide2920" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid24297" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -105,7 +108,7 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0.02032463,139.89161 c 3.46772517,-2.78023 4.53189587,-5.1438 4.53189587,-5.1438"
+       d="m 0.02032463,139.89161 c 2.93647517,-2.99898 4.53189587,-5.1438 4.53189587,-5.1438"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />

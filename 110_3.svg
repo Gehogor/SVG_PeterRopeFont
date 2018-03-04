@@ -39,18 +39,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="63.188757"
-     inkscape:cy="905.14449"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="84.231739"
+     inkscape:cy="911.79155"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1170"
-     inkscape:window-height="786"
-     inkscape:window-x="7"
-     inkscape:window-y="96"
+     inkscape:window-width="684"
+     inkscape:window-height="802"
+     inkscape:window-x="636"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <sodipodi:guide
@@ -95,7 +95,7 @@
        id="guide2920" />
     <inkscape:grid
        type="xygrid"
-       id="grid4005" />
+       id="grid3946" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -105,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,8 +114,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.07937896px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0.001491,147.36345 c 16.468989,-3.76357 30.19375,-17.51329 33.833126,-23.18075 4.83858,-7.53493 12.385371,-25.0982 17.21969,-20.61954 3.87855,3.59321 1.256082,21.38684 -11.610431,48.11155 13.216829,-34.6939 24.525986,-50.47788 28.957725,-48.55662 11.470121,4.97255 -15.651023,44.27086 -5.245115,48.51134 3.687747,1.50278 8.405828,-6.79791 13.344926,-11.76722"
+       style="fill:none;stroke:#000000;stroke-width:1.18246901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0.0027558,147.36575 c 14.4109902,-4.1034 33.8019942,-25.49793 38.1789682,-31.15346 5.819221,-7.51907 9.59223,-17.090405 15.406327,-12.62118 4.664621,3.58564 1.510654,21.34181 -13.963533,48.01026 15.895502,-34.62086 29.496701,-50.37161 34.826627,-48.45439 13.794782,4.96208 -18.085403,44.2347 -6.686196,48.42433 3.880875,1.42637 10.835154,-6.74038 15.900264,-11.70679"
        id="path3223-1"
        sodipodi:nodetypes="csscssc"
        fin="12 45"

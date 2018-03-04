@@ -41,19 +41,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="75.699895"
-     inkscape:cy="904.59276"
+     inkscape:zoom="16.000001"
+     inkscape:cx="2.2674725"
+     inkscape:cy="907.63026"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="733"
-     inkscape:window-height="679"
-     inkscape:window-x="54"
-     inkscape:window-y="17"
-     inkscape:window-maximized="1"
+     inkscape:window-width="819"
+     inkscape:window-height="757"
+     inkscape:window-x="583"
+     inkscape:window-y="52"
+     inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
@@ -79,10 +79,6 @@
        orientation="0,1"
        position="27.764719,800"
        id="guide26" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="50,976.20754"
-       id="guide28" />
     <sodipodi:guide
        orientation="1,0"
        position="100,1015.0781"
@@ -116,8 +112,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.07937896px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.00273168,147.35774 C 22.522866,140.52615 24.064335,130.60716 27.526936,124.05582 c 3.843646,-7.27229 11.262676,-22.12763 16.076103,-21.11569 0.426692,0.0897 0.749938,0.13146 1.143587,0.49615 3.878553,3.59321 1.079305,22.09395 -11.787208,48.81866 26.678307,-70.121756 44.540824,-61.019287 19.771747,0.0217 19.027685,-53.353044 27.537764,-50.92772 29.533225,-47.96947 6.051915,8.97189 -15.276279,43.08919 -5.668682,47.32695 3.612265,1.5933 7.432105,-6.82027 12.607031,-11.88022"
+       style="fill:none;stroke:#000000;stroke-width:1.18690491px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.05649468,147.31468 C 27.346371,140.49797 29.214322,130.60057 33.410298,124.06351 c 4.657727,-7.25646 13.6481,-22.07946 19.481006,-21.06972 0.517065,0.0895 0.908774,0.13116 1.385797,0.49506 4.700028,3.58539 1.307901,22.04584 -14.283727,48.71237 32.328746,-69.969078 53.974526,-60.886427 23.959384,0.0217 23.05773,-53.236883 33.370235,-50.81684 35.788332,-47.86503 7.33371,8.95236 -18.511779,42.99537 -6.869303,47.22391 4.377339,1.58982 10.193713,-6.80543 15.277193,-11.85435"
        id="path3223"
        sodipodi:nodetypes="csssccssc"
        fin="12 45"

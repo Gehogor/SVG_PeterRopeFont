@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="233_1.svg"
-   Fin="40.97 0">
+   Fin="40.94 0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="40.825515"
-     inkscape:cy="912.4367"
+     inkscape:zoom="4"
+     inkscape:cx="5.8920892"
+     inkscape:cy="911.98337"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,13 +109,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.07632356,139.79836 C 5.051051,135.00343 8.3135506,129.23521 12.569886,125.89918 c 18.48367,2.34042 24.912711,1.52069 34.307432,-10.00616 10.160229,-12.46609 -10.272109,-21.513652 -27.905063,0.0267 -19.74062916,24.11508 -4.177679,52.66557 22.00074,23.94278"
-       id="path3201"
+       d="M 0.00221945,139.86184 C 5.0081965,134.87941 10.175768,125.86024 14.432103,122.52421 c 17.427466,4.13597 22.272204,5.32302 32.406267,-6.62631 10.401902,-12.26515 -10.272109,-21.513644 -27.905064,0.0267 -19.7406283,24.11509 -4.173772,52.65776 22.004647,23.93497"
+       id="path3201-1"
        sodipodi:nodetypes="ccssc"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 31.166754,92.03799 C 39.477267,90.752575 50.75649,85.975727 54.33325,81.436375"
+       d="M 31.196712,91.755127 C 39.507225,90.469712 50.786448,85.692864 54.363208,81.153512"
        id="path3134"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0" />

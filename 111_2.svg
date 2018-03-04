@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="41.421658"
-     inkscape:cy="929.75034"
+     inkscape:zoom="8"
+     inkscape:cx="43.548611"
+     inkscape:cy="928.9437"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -86,6 +86,9 @@
        orientation="0,1"
        position="1.4142136,912.5"
        id="guide2920" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid24316" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">

@@ -49,44 +49,44 @@
      inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
-       position="127.16242,1000.0852"
-       id="guide2816" />
+       position="127.16242,1000"
+       id="guide16" />
     <sodipodi:guide
        orientation="0,1"
-       position="29.234084,949.99845"
-       id="guide2818" />
+       position="-47.729708,950"
+       id="guide18" />
     <sodipodi:guide
        orientation="0,1"
-       position="33.352744,900.00296"
-       id="guide2820" />
+       position="144.37654,900"
+       id="guide20" />
     <sodipodi:guide
        orientation="0,1"
-       position="121.05418,850.15571"
-       id="guide2822" />
+       position="121.05418,850"
+       id="guide22" />
     <sodipodi:guide
        orientation="0,1"
-       position="34.428252,1050.0617"
-       id="guide2824" />
+       position="34.428252,1050"
+       id="guide24" />
     <sodipodi:guide
        orientation="0,1"
-       position="27.764719,800.17922"
-       id="guide2826" />
+       position="27.764719,800"
+       id="guide26" />
     <sodipodi:guide
        orientation="1,0"
-       position="49.976495,976.20754"
-       id="guide2828" />
+       position="50,976.20754"
+       id="guide28" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,1015.0781"
+       id="guide3196" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="150,1050.0617"
+       id="guide3198" />
     <sodipodi:guide
        orientation="0,1"
-       position="85.237688,912.62632"
-       id="guide3022" />
-    <inkscape:grid
-       type="xygrid"
-       id="grid5720" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="-6.9029523,937.49762"
-       id="guide5722" />
-  </sodipodi:namedview>
+       position="1.4142136,912.5"
+       id="guide2920" />  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>

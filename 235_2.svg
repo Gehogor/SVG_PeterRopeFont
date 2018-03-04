@@ -14,8 +14,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="234_2.svg"
-   Fin="26.72 0">
+   sodipodi:docname="235_2.svg"
+   Fin="26.59 0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="28.932556"
-     inkscape:cy="911.71283"
+     inkscape:zoom="8"
+     inkscape:cx="26.909795"
+     inkscape:cy="912.02661"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,19 +109,19 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -1.656326,125.93535 c 18.48367,2.34042 24.912711,1.52069 34.307432,-10.00616 C 42.811335,103.4631 22.378997,94.415531 4.7460428,115.95589 -14.994586,140.07097 0.54492673,168.5824 26.723346,139.8596"
-       id="path3201"
+       d="M 0.00270524,122.36417 C 17.430171,126.50014 22.3412,127.78473 32.475263,115.8354 42.877165,103.57025 22.203154,94.321756 4.5701995,115.8621 -15.170429,139.97719 0.412053,168.58236 26.590471,139.85957"
+       id="path3201-1"
        sodipodi:nodetypes="cssc"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 15.085057,85.168951 c -8.1279948,14.137659 11.857455,-4.818139 2.221177,0"
+       d="m 19.874532,85.102078 c -8.127995,14.137658 11.857455,-4.818139 2.221177,0"
        id="path3041-1" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 34.998165,86.520804 c -8.127995,14.137656 11.857455,-4.818139 2.221177,0"
+       d="m 39.78764,86.453931 c -8.127995,14.137659 11.857455,-4.818139 2.221177,0"
        id="path3041-1-7" />
   </g>
 </svg>

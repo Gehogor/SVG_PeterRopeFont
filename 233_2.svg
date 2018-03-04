@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="233_2.svg"
-   Fin="26.72 0">
+   Fin="26.59 0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="26.805603"
-     inkscape:cy="912.51947"
+     inkscape:zoom="4"
+     inkscape:cx="26.697306"
+     inkscape:cy="912.4397"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -109,13 +109,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -1.656326,125.93535 c 18.48367,2.34042 24.912711,1.52069 34.307432,-10.00616 C 42.811335,103.4631 22.378997,94.415531 4.7460428,115.95589 -14.994586,140.07097 0.54492673,168.5824 26.723346,139.8596"
-       id="path3201"
+       d="M 0.00270524,122.36417 C 17.430171,126.50014 22.3412,127.78473 32.475263,115.8354 42.877165,103.57025 22.203154,94.321756 4.5701995,115.8621 -15.170429,139.97719 0.412053,168.58236 26.590471,139.85957"
+       id="path3201-1"
        sodipodi:nodetypes="cssc"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.348873,91.838999 C 24.659386,90.553584 35.938606,85.776736 39.515365,81.237384"
+       d="M 16.34747,91.755127 C 24.657983,90.469712 35.937206,85.692864 39.513966,81.153512"
        id="path3134"
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0" />
