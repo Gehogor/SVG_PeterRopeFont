@@ -13,10 +13,10 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="065.svg"
-   Fin="89.25 0"
-   Deb="3.19 0">
+   Fin="81.52"
+   Deb="3.63 0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -34,18 +34,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="2.4246183"
-     inkscape:cy="914.68412"
+     inkscape:zoom="40.922974"
+     inkscape:cx="91.730813"
+     inkscape:cy="908.88407"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1600"
-     inkscape:window-height="838"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:snap-global="false">
     <sodipodi:guide
@@ -110,13 +110,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 3.1869577,137.3986 C -7.8811623,153.77086 17.460627,160.56988 26.055102,133.07934 31.972104,115.86394 56.311917,33.899951 80.423674,5.0238328 98.932122,-20.319299 28.451927,180.40382 80.240038,148.34293 104.88919,134.60155 88.002068,95.16986 69.167835,129.70978"
+       d="M 4.63,137.36154 C -9.32498,153.7338 14.821761,160.56988 28.26354,133.07934 37.21607,115.86394 76.008291,33.899951 105.21166,5.0238328 128.18877,-20.319299 22.315816,180.40382 79.757101,148.34293 106.82922,134.60155 96.894941,95.16986 71.970415,129.70978"
        id="path2880"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 20.823539,87.260547 C 22.00949,78.389275 28.515405,67.840791 42.202373,71.157009 58.297912,75.056801 57.888569,92.88496 90.512984,69.768773"
+       d="m 31.111035,87.260547 c 2.75019,-8.871272 11.11608,-19.419756 24.218311,-16.103538 15.407903,3.899792 11.854987,21.727951 48.555394,-1.388236"
        id="path2882"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
